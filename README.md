@@ -6,3 +6,4 @@ code/demo.py 是测试小程序，运行命令：
 ```bash
 python code/demo.py
 # research-tools-week1
+try
